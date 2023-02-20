@@ -1,12 +1,17 @@
-### Hi there 
+### Hi there 😊 ,MY NAME IS VAISHALI 😎
 
-<!--
-**Vaishgadekar/Vaishgadekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### -Data Scientist and business analyst
 
-Here are some ideas to get you started:
+- Trainee coder @ Coder's Ready
+
+Motivated data scientist . Passionate about building models that fix problems.
+Relevant skills include machine learning, problem solving, programming, and creative thinking.
+
 
 - 🔭 I’m currently working on python
-- 🌱 I’m currently learning new skill of python
+- 🌱 I’m currently learning new skill of python and Machine Learning
 - 💬 Ask me about programing
+
+- Mail ID - 105vaish@gmail.com
 
 
