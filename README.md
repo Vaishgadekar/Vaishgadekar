@@ -2,7 +2,7 @@
 
 #### -Data Scientist and business analyst
 
-- Trainee coder @ Coder's Ready
+Engineer service associate @ Accenture 
 
 Motivated data scientist . Passionate about building models that fix problems.
 Relevant skills include machine learning, problem solving, programming, and creative thinking.
